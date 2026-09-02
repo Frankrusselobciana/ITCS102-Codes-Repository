@@ -1,0 +1,5 @@
+name = input("What is your name? ---> ")
+print ("Hi,", name,", How are you doing today?")
+today = input("")
+print("Ohhh Okay!!")
+print("Nice to meet you ", name)
